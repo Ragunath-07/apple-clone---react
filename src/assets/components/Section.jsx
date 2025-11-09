@@ -49,7 +49,7 @@ function Section(){
 
             {/* 5th Sec */}
             <div className="bg-gray-50 flex flex-col items-center p-3 cursor-pointer">
-                <h1 className="text-2xl font-bold py-2 lg:text-4xl">Using them together sets them apart</h1>
+                <h1 className="text-2xl font-bold py-2 lg:text-4xl text-center">Using them together sets them apart</h1>
                 <p className="text-lg font-semibold lg:text-xl text-center">Apple devices works together so seamlessly, it almost feels like magic.</p>
                 <button class="bg-blue-700  border border-blue-700  text-white font-semibold  px-4 py-2  rounded-3xl mt-3">Learn more</button>
                 <img src={AppleProducts} alt="AppleProducts" style={{width:"90%"}}></img>

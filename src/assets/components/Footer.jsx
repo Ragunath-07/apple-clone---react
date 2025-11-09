@@ -22,7 +22,7 @@ function Footer() {
 
             <hr class="border border-gray-300 my-4" />
 
-            <div className="flex justify-between gap-1">
+            <div className="flex justify-between gap-2">
                 <ul>
                     <li className="text-black font-semibold my-1">Shop and Learn</li>
                     <li>Store</li>
