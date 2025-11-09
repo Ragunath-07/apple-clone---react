@@ -22,7 +22,7 @@ function Footer() {
 
             <hr class="border border-gray-300 my-4" />
 
-            <div className="flex justify-between px-10">
+            <div className="flex justify-between gap-1">
                 <ul>
                     <li className="text-black font-semibold my-1">Shop and Learn</li>
                     <li>Store</li>
@@ -49,7 +49,7 @@ function Footer() {
                     <li>Apple and Business</li>
                     <li>Shop for Business</li>
                 </ul>
-                <ul>
+                <ul className="hidden md:block">
                     <li className="text-black font-semibold my-1">Apple Values</li>
                     <li>Accessibility</li>
                     <li>Education</li>
